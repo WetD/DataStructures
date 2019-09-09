@@ -53,8 +53,8 @@ public class CircleArrayQueueTry {
 
     }
 
-
-static class CircleArray {
+}
+ class CircleArray {
         private int maxSize;
         private int front;
         private int rear;
@@ -117,6 +117,6 @@ static class CircleArray {
         }
     }
 
-}
+
 
 
